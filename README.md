@@ -140,7 +140,7 @@ jupyter notebook "Heat Exchanger Price Prediction....ipynb"
 
 **Roshan Chourasia**
 - 📧 GitHub: [@roshanchourasia001](https://github.com/roshanchourasia001)
-- 💼 LinkedIn: ![@Linkedin](https://linkedin.com/in/roshan-chourasia-122a8b252)
+- 💼 LinkedIn: [@Linkedin](https://linkedin.com/in/roshan-chourasia-122a8b252)
 - 🎯 Data Science Fresher | Python | ML | SQL | Tableau
 
 ---
